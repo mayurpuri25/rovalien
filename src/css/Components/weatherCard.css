@@ -14,14 +14,15 @@
     text-transform: uppercase;
 }
 .Card p{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Aldrich', sans-serif;
     letter-spacing: 1px;
+    font-size: large;
 }
 .Card p:last-child{
     margin-bottom: 0;
 }
 .Card p span{
-    font-size:x-large;
+    font-size:xx-large;
     display: block;
     text-transform:capitalize;
 }

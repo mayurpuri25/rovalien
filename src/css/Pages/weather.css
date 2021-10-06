@@ -1,7 +1,5 @@
 #weather{
-    background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.836)),
-    url("https://nerdist.com/wp-content/uploads/2020/07/4K-Mars-Body-Image-2.png");
+    background-image: url("https://nerdist.com/wp-content/uploads/2020/07/4K-Mars-Body-Image-2.png");
     background-size: cover;
     background-repeat: no-repeat;
     overflow-x: hidden;
