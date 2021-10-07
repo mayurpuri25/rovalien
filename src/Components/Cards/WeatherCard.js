@@ -1,7 +1,7 @@
 import React from 'react'
 import model from "../../Images/Mars.glb"
 import formatDate from '../../Utilities/FormatDate'
-import "../../css/Components/weatherCard.css"
+import '../../css/Components/weatherCard.css'
 
 
 const WeatherCard = ({ mainSolData }) =>
