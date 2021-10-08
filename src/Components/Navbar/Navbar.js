@@ -13,22 +13,23 @@ export default function NavBar() {
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      handleScroll();
+      let nav = document.getElementById("nav");
+      let navHeight = nav.scrollHeight;
+      if (window.scrollY >= navHeight) {
+        setBackground({
+          backgroundColor: "white",
+          color: "black",
+          boxShadow: "0px -8px 30px 10px #0000007d",
+        });
+      } else {
+        setBackground({
+          backgroundColor: "transparent",
+          color: "white",
+          boxShadow: "none",
+        });
+      }
     });
   }, []);
-  const handleScroll = () => {
-    let nav = document.getElementById("nav");
-    let navHeight = nav.scrollHeight;
-    if (window.scrollY >= navHeight) {
-      setBackground({
-        backgroundColor: "white",
-        color: "black",
-        boxShadow: "0px -8px 30px 10px #0000007d",
-      });
-    } else {
-      setBackground(background);
-    }
-  };
 
   return (
     <>
