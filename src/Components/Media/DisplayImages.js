@@ -5,7 +5,7 @@ import "../../css/Pages/media.css";
 export default function DisplayImages(props) {
   const [images, setImages] = useState();
   const [modalShow, setModalShow] = useState(false);
-  const [modalImg, setmModalImg] = useState();
+  const [modalImg, setModalImg] = useState();
 
   useEffect(() => {
     fetch(
@@ -55,7 +55,7 @@ export default function DisplayImages(props) {
                   <Image
                     className="dataimg"
                     src={data?.img_src}
-                    onClick={() => setmModalImg(data?.img_src)}
+                    onClick={() => setModalImg(data?.img_src)}
                     alt="rover"
                     rounded
                   />
