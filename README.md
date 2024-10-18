@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+HOMEPAGE :
+![{ADF3B29B-CA60-4E48-A522-A55781FDBD2B}](https://github.com/user-attachments/assets/d5e53b7c-a29f-469c-a54e-7378b0451a52)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![{B8EDD65A-ACAC-436F-9524-AB68C83E0810}](https://github.com/user-attachments/assets/dffeb88c-8042-4bd0-a5e1-7b2b128db612)
 
-## Available Scripts
+![{3A22C9CE-04AA-4191-A1F8-D259A8D56500}](https://github.com/user-attachments/assets/541c0dad-5700-4a68-8d92-88c8fbf0059c)
 
-In the project directory, you can run:
+LIVE WEATHER :
+![{65759BC4-1F76-49D0-B67D-15ECCF4DBDAE}](https://github.com/user-attachments/assets/e0e3fad8-d6b2-4fd4-9bc1-9a2c01e62778)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+MEDIA :
+![{C226F7E1-EFAA-4EE1-B679-A7F19B24CC64}](https://github.com/user-attachments/assets/f6dc4e9a-2f3e-48b6-9b78-1dced7ef0778)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![{B58C8DEC-6DA5-410C-A8E6-F596DC0E1665}](https://github.com/user-attachments/assets/8e70cc0e-f40f-4278-9cbe-1bfc86b51899)
